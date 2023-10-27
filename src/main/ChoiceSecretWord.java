@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
+//Выбор секретного слова из словаря
 public class ChoiceSecretWord {
     private static final List<String> dictionaryList = readDictionary();
     private static final Random random = new Random();

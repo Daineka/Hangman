@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import static main.Game.game;
 
+
 public class Main {
     private static final Scanner scanner = new Scanner(System.in);
     private static final String newGame = """

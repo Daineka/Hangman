@@ -1,5 +1,5 @@
 package main;
-
+//Проверка на наличие введеной буквы в секретное слово
 public class CheckSecretWord {
     public static StringBuilder checkSecretWord(StringBuilder guessedWord, String word, char c) {
 
@@ -13,7 +13,6 @@ public class CheckSecretWord {
                 }
             }
         }
-        System.out.println();
         return guessedWord;
     }
 }

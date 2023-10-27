@@ -1,5 +1,6 @@
 package main;
 
+//Печать на экран виселицы
 public class PrintGallow {
     public static void drawGallows(int count) {
         switch (count) {

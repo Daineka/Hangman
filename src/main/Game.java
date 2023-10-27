@@ -8,6 +8,7 @@ import static main.CheckSecretWord.checkSecretWord;
 import static main.ChoiceSecretWord.choiceSecretWord;
 import static main.PrintGallow.drawGallows;
 
+//Функционал игры
 public class Game {
     private static final Scanner scanner = new Scanner(System.in);
 
